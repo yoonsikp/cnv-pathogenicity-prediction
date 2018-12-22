@@ -6,9 +6,9 @@ This repository contains the code and datasets required to replicate the results
 
 [Feature Extraction](2_Feature_Extraction/feature_creation.ipynb)
 
-[Model Training (XGBoost)](4_Model_Training/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
+[Model Training (XGBoost)](3_Model_Training/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
 
-[Model Testing (XGBoost)](5_Model_Testing/4_Model_Testing/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
+[Model Testing (XGBoost)](4_Model_Testing/4_Model_Testing/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
 
 ### Presentation
 
