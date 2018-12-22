@@ -4,11 +4,11 @@ Copy number variations (CNVs) describe a subset of the wide variety of genetic m
 
 This repository contains the code and datasets required to replicate the results of the project. Furthermore, the libraries used for Feature Extraction can be repurposed for any project involving regions of genetic data aligned to the hg19 reference genome. Every top level folder contains a descriptive `README`. The following links are example notebooks from the project.
 
-[Feature Extraction](4.%20Feature%20Extraction/feature_creation.ipynb)
+[Feature Extraction](2_Feature_Extraction/feature_creation.ipynb)
 
-[Model Training (XGBoost)](5.%20Model%20Training%20and%20Validation/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
+[Model Training (XGBoost)](4_Model_Training/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
 
-[Model Testing (XGBoost)](7.%20Testing/7.5%20Model%20Testing/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
+[Model Testing (XGBoost)](5_Model_Testing/4_Model_Testing/classifier_k_fold_xgboost_all_features_and_feature_importance.ipynb)
 
 ### Presentation
 
