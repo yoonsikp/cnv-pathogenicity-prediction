@@ -1,4 +1,0 @@
-embeddings {
-  tensor_name: "Variable:0"
-  metadata_path: "/Users/yoonsik/git/cnv_pathogenicity_prediction/6. Misc/t-sne/all_metadata.tsv"
-}
