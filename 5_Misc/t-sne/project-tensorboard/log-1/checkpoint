@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/yoonsik/git/cnv_pathogenicity_prediction/6. Misc/t-sne/project-tensorboard/log-1/tf_data.ckpt"
+all_model_checkpoint_paths: "/Users/yoonsik/git/cnv_pathogenicity_prediction/6. Misc/t-sne/project-tensorboard/log-1/tf_data.ckpt"

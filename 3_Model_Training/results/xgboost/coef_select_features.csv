@@ -1,0 +1,21 @@
+0.10891886, 0.0063076713, size
+0.09214971, 0.0049168235, repeat_SINE_density
+0.08488223, 0.005351333, repeat_Simple repeat_density
+0.08397386, 0.0046235435, repeat_Transposable element_density
+0.083050445, 0.0033912326, repeat_LTR_density
+0.07304759, 0.0034455056, repeat_Low complexity_density
+0.06675255, 0.0062917396, gene_density
+0.06603912, 0.0012873579, repeat_LINE
+0.06553374, 0.0029588554, repeat_Segmental duplication_density
+0.06425235, 0.003080753, repeat_LINE_density
+0.043719474, 0.0033902966, mpo_multi_entrez_to_num_phenotypes
+0.02916197, 0.0017855889, gain_loss
+0.023617793, 0.001791962, pli_pli_0.9_to_1.0
+0.02191499, 0.00057353056, omim_num_diseases
+0.018661875, 0.0013707104, pli_pli_0.0_to_0.1
+0.018574242, 0.0027221802, mpo_multi_entrez_to_num_phenotypes_using_thresh
+0.014497155, 0.001009746, mpo_growth/size/body region phenotype
+0.014247382, 0.0010559611, mpo_behavior/neurological phenotype
+0.014098467, 0.0019648627, number_of_genes_in_proximity
+0.007675126, 0.00075401756, pli_pli_0.8_to_0.9
+0.0052310796, 0.001227683, pli_pli_0.3_to_0.4

@@ -1,0 +1,18 @@
+Required Python 3 Libraries
+
+For Training + Feature Extraction:
+
+pandas
+numpy
+jupyter
+matplotlib
+xgboost
+sklearn
+intervaltree
+biopython
+
+For Visualization:
+
+Multicore-tsne
+Tensorflow
+Tensorboard

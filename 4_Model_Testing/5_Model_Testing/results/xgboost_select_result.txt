@@ -1,0 +1,62 @@
+for original recall: 0.9
+     pred_neg  pred_pos
+neg      9998      1845
+pos       130      3016
+for original recall: 0.97
+     pred_neg  pred_pos
+neg      6634      5209
+pos        58      3088
+for original recall: 0.99
+     pred_neg  pred_pos
+neg      5203      6640
+pos        31      3115
+for original recall: 0.9
+     pred_neg  pred_pos
+neg     10375      1468
+pos       137      3009
+for original recall: 0.97
+     pred_neg  pred_pos
+neg      8157      3686
+pos        71      3075
+for original recall: 0.99
+     pred_neg  pred_pos
+neg      5261      6582
+pos        37      3109
+for original recall: 0.9
+     pred_neg  pred_pos
+neg     10219      1624
+pos       138      3008
+for original recall: 0.97
+     pred_neg  pred_pos
+neg      8200      3643
+pos        68      3078
+for original recall: 0.99
+     pred_neg  pred_pos
+neg      4006      7837
+pos        12      3134
+for original recall: 0.9
+     pred_neg  pred_pos
+neg     10250      1593
+pos       137      3009
+for original recall: 0.97
+     pred_neg  pred_pos
+neg      7527      4316
+pos        53      3093
+for original recall: 0.99
+     pred_neg  pred_pos
+neg      4822      7021
+pos        26      3120
+for original recall: 0.9
+     pred_neg  pred_pos
+neg     10324      1519
+pos       144      3002
+for original recall: 0.97
+     pred_neg  pred_pos
+neg      7581      4262
+pos        60      3086
+for original recall: 0.99
+     pred_neg  pred_pos
+neg      4181      7662
+pos        12      3134
+Test Average Precision: 0.9580 (±0.0069)
+Test Accuracy: 0.8696 (±0.0056)
